@@ -1,2 +1,2 @@
 # first-repo-from-terraform
-My first resource for my youtube viewers.manually changed.
+My first resource for my youtube viewers.
